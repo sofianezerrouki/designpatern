@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d1a287c-d6da-40d1-aa35-056b1344dd53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creationalpattern/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/builder/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creationalpattern/builder/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/builder/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
       <recent name="C:\OLD EADN PC\EADN from 23-04-2022\2- CLONE recrutement project from 05-04-2024\design-patern\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="creationalpattern.singleton" />
       <recent name="abstract_factory" />
     </key>
   </component>
@@ -89,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715513059142</updated>
       <workItem from="1715513060258" duration="5357000" />
-      <workItem from="1715718464670" duration="2547000" />
+      <workItem from="1715718464670" duration="5033000" />
     </task>
     <servers />
   </component>

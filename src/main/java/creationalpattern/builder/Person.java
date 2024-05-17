@@ -1,11 +1,11 @@
 package creationalpattern.builder;
 
 public class Person {
-    private String name;
-    private String email;
-    private String phone;
-    private String mobile;
-    private Boolean active;
+    private final String name;
+    private final  String email;
+    private final String phone;
+    private final String mobile;
+    private final Boolean active;
 
     private Person(PersonBuilder builder) {
         this.name = builder.name;
@@ -52,11 +52,4 @@ public class Person {
     }
 }
 
-class Main {
-    public static void main(String[] args) {
-        new Person.PersonBuilder("me")
-                .email("myemail@gmail.com")
-                .active(true)
-                .build();
-    }
-}
+
